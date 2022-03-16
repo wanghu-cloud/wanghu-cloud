@@ -6,7 +6,7 @@
   <link href="https://wanghu-cloud.github.io/atom.xml" rel="self"/>
   
   <link href="https://wanghu-cloud.github.io/"/>
-  <updated>2022-03-16T05:51:16.126Z</updated>
+  <updated>2022-03-16T05:55:19.262Z</updated>
   <id>https://wanghu-cloud.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://wanghu-cloud.github.io/2022/03/14/Girlfriend/"/>
     <id>https://wanghu-cloud.github.io/2022/03/14/Girlfriend/</id>
     <published>2022-03-14T11:28:15.000Z</published>
-    <updated>2022-03-16T05:51:16.126Z</updated>
+    <updated>2022-03-16T05:55:19.262Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>请允许我向大家介绍我嘎嘎好看，嘎嘎可爱，嘎嘎迷人的小朋友—<font size=4><strong>张蓉</strong> </font><br>听名字是不是就觉得是个温柔的小姑娘啊<br>啥？你不信？无图无依据？<br>上图</p><img src="/2022/03/14/Girlfriend/four.jpg" class=""><p>看到了不，是不是嘎嘎好看啊</p><p>你说什么？看不出来？<br>这边建议您配副眼镜哦</p><p>再来几张，就喜欢看照片<br>嘿嘿</p><img src="/2022/03/14/Girlfriend/one.jpg" class=""><img src="/2022/03/14/Girlfriend/two.jpg" class=""><p>怎么样，羡慕吧<br>我的小朋友哦<br><font size=6><strong>哈哈哈哈哈哈哈哈哈</strong> </font></p><h2 id="程序"><a href="#程序" class="headerlink" title="程序"></a>程序</h2><p>身为程序员，这时候必须来一段程序啊<br>给我的小朋友来段程序开心一下吧</p><pre><code>    from turtle import *    def small_Circle(size):    speed(10)    for i in range(210):        forward(size)        right(0.786)    def heart(x, y, size):        go_to(x, y)        left(150)        begin_fill()        line(size)        big_Circle(size)        small_Circle(size)        left(120)        small_Circle(size)        big_Circle(size)        line(size)        end_fill()    def main():        pensize(2)        color(&#39;red&#39;, &#39;pink&#39;)        head(-120, 100, 100)        heart(250, -80, 1)        go_to(200, -300)        write(&quot;To: 送给智慧与美貌并存的小仙女！&quot;, move=True, align=&quot;left&quot;, font=(&quot;楷体&quot;, 20, &quot;normal&quot;))        done()    main()</code></pre><p>小迷糊要问了，我又不会编程，我怎么知道这是个啥嘞<br>不要担心，王大爷考虑到了，<a href="https://s2.loli.net/2022/03/15/XjPxvw42limofKU.png">点击此处看结果</a></p><p><font size=4>哇咔咔</font></p><h2 id="一封信"><a href="#一封信" class="headerlink" title="一封信"></a>一封信</h2><blockquote><p>小朋友：</p></blockquote><pre><code> 林徽因曾在诗里写道：“你是一树一树的花开，是燕，在梁间呢喃，你是爱，是暖，是希望，你是人间的四月天。” 我浪费光阴、虚度岁月的时候，觉得人间不过如此。但遇到你之后，我渴望长命百岁，觉得人间值得。曾经我以为一个人可以走的很快，但两个人走好像更有趣。    身为你的男朋友，有时候做的不好的地方惹你生气了，还请您多多包含。当然，这个几率还是很小很小的，毕竟你是小祖宗，要好好宠着啊。    你知道吗，你是我睡前，想到的最后一个人，也是我睡醒后，想到的第一个人，即使在梦里，也是我最想见的人。小傻瓜，你要记住哦，我是你坚实的后盾，一直在你身后，会永远陪在你身边。有了委屈要告诉我，受了欺负我替你找回去。异地是很艰辛，但我仍奋不顾身。我没在你身边的日子里，你要好好照顾自己啊，我会在每个见不到你的日子里保持思念。    最后说一句，大宝贝真的好让人喜欢啊,爱你呦！</code></pre><p>##未完待续，我们的故事还有很长。。。。。。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>请允许我向大家介绍我嘎嘎好看，嘎嘎可爱，嘎嘎迷人的小朋友—<font size=4><strong>张蓉</strong> </font><br>听名字是不是就觉得是个温柔的小姑娘啊<br>啥？你不信？无图无依据？<br>上图</p><img src="/2022/03/14/Girlfriend/four.jpg" class=""><p>看到了不，是不是嘎嘎好看啊</p><p>你说什么？看不出来？<br>这边建议您配副眼镜哦</p><p>再来几张，就喜欢看照片<br>嘿嘿</p><img src="/2022/03/14/Girlfriend/one.jpg" class=""><img src="/2022/03/14/Girlfriend/two.jpg" class=""><p>怎么样，羡慕吧<br>我的小朋友哦<br><font size=6><strong>哈哈哈哈哈哈哈哈哈</strong> </font></p><h2 id="程序"><a href="#程序" class="headerlink" title="程序"></a>程序</h2><p>身为程序员，这时候必须来一段程序啊<br>给我的小朋友来段程序开心一下吧</p><pre><code>    from turtle import *    def small_Circle(size):    speed(10)    for i in range(210):        forward(size)        right(0.786)    def heart(x, y, size):        go_to(x, y)        left(150)        begin_fill()        line(size)        big_Circle(size)        small_Circle(size)        left(120)        small_Circle(size)        big_Circle(size)        line(size)        end_fill()    def main():        pensize(2)        color(&#39;red&#39;, &#39;pink&#39;)        head(-120, 100, 100)        heart(250, -80, 1)        go_to(200, -300)        write(&quot;To: 送给智慧与美貌并存的小仙女！&quot;, move=True, align=&quot;left&quot;, font=(&quot;楷体&quot;, 20, &quot;normal&quot;))        done()    main()</code></pre><p>小迷糊要问了，我又不会编程，我怎么知道这是个啥嘞<br>不要担心，王大爷考虑到了，<a href="https://s2.loli.net/2022/03/15/XjPxvw42limofKU.png">点击此处看结果</a></p><p><font size=4>哇咔咔</font></p><h2 id="一封信"><a href="#一封信" class="headerlink" title="一封信"></a>一封信</h2><blockquote><p>小朋友：<br>     林徽因曾在诗里写道：“你是一树一树的花开，是燕，在梁间呢喃，你是爱，是暖，是希望，你是人间的四月天。” 我浪费光阴、虚度岁月的时候，觉得人间不过如此。但遇到你之后，我渴望长命百岁，觉得人间值得。曾经我以为一个人可以走的很快，但两个人走好像更有趣。<br>     身为你的男朋友，有时候做的不好的地方惹你生气了，还请您多多包含。当然，这个几率还是很小很小的，毕竟你是小祖宗，要好好宠着啊。<br>     你知道吗，你是我睡前，想到的最后一个人，也是我睡醒后，想到的第一个人，即使在梦里，也是我最想见的人。小傻瓜，你要记住哦，我是你坚实的后盾，一直在你身后，会永远陪在你身边。有了委屈要告诉我，受了欺负我替你找回去。异地是很艰辛，但我仍奋不顾身。我没在你身边的日子里，你要好好照顾自己啊，我会在每个见不到你的日子里保持思念。<br>     最后说一句，大宝贝真的好让人喜欢啊，爱你呦！</p></blockquote><p>##未完待续，我们的故事还有很长。。。。。。</p>]]></content>
     
     
       
@@ -45,35 +45,6 @@
     <category term="标签2" scheme="https://wanghu-cloud.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
     
     <category term="标签3" scheme="https://wanghu-cloud.github.io/tags/%E6%A0%87%E7%AD%BE3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test1</title>
-    <link href="https://wanghu-cloud.github.io/2020/01/01/test1/"/>
-    <id>https://wanghu-cloud.github.io/2020/01/01/test1/</id>
-    <published>2020-01-01T10:13:53.000Z</published>
-    <updated>2022-03-15T02:55:20.184Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="My-title"><a href="#My-title" class="headerlink" title="My title"></a>My title</h2><p>I really like using MarkDown.</p><p>I think I’ll use it format all of my documents from now on.</p><p>This is the <strong>first</strong> line.<br>And this is the <em>second</em> line.</p><blockquote><p>Dorothy followed her through many of the beautiful rooms in her castle.</p><blockquote><p>The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.</p></blockquote></blockquote><blockquote><h4 id="The-quarterly-results-look-great"><a href="#The-quarterly-results-look-great" class="headerlink" title="The quarterly results look great!"></a>The quarterly results look great!</h4><ul><li>Revenue was off the chart.</li><li>Profits were higher than ever.</li></ul><p> <em>Everything</em> is going according to <strong>plan</strong>.</p></blockquote><ol><li><p>First item</p></li><li><p>Second item</p></li><li><p>Third item</p></li><li><p>Fourth item</p><pre><code> def img_grearte():     mask = imread(&quot;boy.png&quot;)     with open(&quot;txt_save.txt&quot;, &quot;r&quot;) as file:         txt = file.read()     word = WordCloud(background_color=&quot;white&quot;,              width=800,              height=800,              font_path=&#39;simhei.ttf&#39;,              mask=mask,              ).generate(txt)     word.to_file(&#39;test.png&#39;)     print(&quot;词云图片已保存&quot;)     plt.imshow(word)  # 使用plt库显示图片     plt.axis(&quot;off&quot;)     plt.show()</code></pre></li></ol><p>这是一个连接<a href="https://baidu.com/" title="百度一下，你就知道">百度</a></p><img src="/2020/01/01/test1/3.jpg" class="">]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;My-title&quot;&gt;&lt;a href=&quot;#My-title&quot; class=&quot;headerlink&quot; title=&quot;My title&quot;&gt;&lt;/a&gt;My title&lt;/h2&gt;&lt;p&gt;I really like using MarkDown.&lt;/p&gt;
-&lt;p&gt;I think I</summary>
-      
-    
-    
-    
-    <category term="深度学习" scheme="https://wanghu-cloud.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="杂谈" scheme="https://wanghu-cloud.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="标签1" scheme="https://wanghu-cloud.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
-    
-    <category term="标签2" scheme="https://wanghu-cloud.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   

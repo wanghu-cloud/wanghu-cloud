@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://wanghu-cloud.github.io/2020/01/01/test1/</loc>
-    
-    <lastmod>2022-03-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wanghu-cloud.github.io/about/index.html</loc>
     
     <lastmod>2022-03-14</lastmod>
@@ -88,21 +79,7 @@
 
   
   <url>
-    <loc>https://wanghu-cloud.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wanghu-cloud.github.io/categories/%E6%B8%A9%E6%9F%94/</loc>
-    <lastmod>2022-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wanghu-cloud.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2022-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
